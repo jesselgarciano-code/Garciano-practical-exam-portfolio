@@ -1,0 +1,7 @@
+Backend server notes
+
+- The server uses Node.js's built-in HTTP module.
+- It listens on port 3000 and responds with "Backend server running!".
+- From this folder, start it with: node server.js
+- Open http://localhost:3000 to check the response.
+- Stop the server with Ctrl+C in the terminal.
